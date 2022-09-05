@@ -22,8 +22,8 @@ Those variables are:
   
 Included below are screenshots of my interactions with the deployed contract:
   
-![This is the deployed contract](../downloads/deployed.jpg)
-![This is the deployed contract](../downloads/setAccounts.jpg)
-![This is the deployed contract](../downloads/transmission1.jpg)
-![This is the deployed contract](../downloads/transmission2.jpg)
+![This is the deployed contract](/Users/joshuamitchell/Downloads/deployed.jpg)
+![This is the deployed contract](/Users/joshuamitchell/Downloads/setAccounts.jpg)
+![This is the deployed contract](/Users/joshuamitchell/Downloads/transmission1.jpg)
+![This is the deployed contract](/Users/joshuamitchell/Downloads/transmission2.jpg)
   
