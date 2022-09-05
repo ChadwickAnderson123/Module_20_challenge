@@ -22,4 +22,4 @@ Those variables are:
   
   Included below are screenshots of my interactions with the deployed contract:
   
-  ![This is the deployed contract](https://myoctocat.com/assets/images/base-octocat.svg)
+  ![This is the deployed contract](deployed.jpeg)
