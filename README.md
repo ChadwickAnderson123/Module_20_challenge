@@ -20,6 +20,10 @@ Those variables are:
   -lastToWithdraw
   -lastWithdrawAmount
   
-  Included below are screenshots of my interactions with the deployed contract:
+Included below are screenshots of my interactions with the deployed contract:
   
-  ![This is the deployed contract](deployed.jpeg)
+![This is the deployed contract](../downloads/deployed.jpg)
+![This is the deployed contract](../downloads/setAccounts.jpg)
+![This is the deployed contract](../downloads/transmission1.jpg)
+![This is the deployed contract](../downloads/transmission2.jpg)
+  
